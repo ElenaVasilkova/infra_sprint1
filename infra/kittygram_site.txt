@@ -1,0 +1,5 @@
+IP: 84.201.177.33;
+name_taski: https://avtaski.hopto.org/;
+name_kittygram: https://kittygramproject.serveblog.net/;
+login: yc-user;
+password: *1dAf23q; 
