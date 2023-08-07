@@ -1,15 +1,6 @@
 import os
 from pathlib import Path
-import sentry_sdk
-from sentry_sdk.integrations.django import DjangoIntegration
 
-sentry_sdk.init(
-  dsn="https://79156667b75b41944532d1453d9e6b4d@o4505646920892416.ingest.sentry.io/4505646925086720",
-  integrations=[DjangoIntegration()],
-
-  traces_sample_rate=1.0,
-  send_default_pii=True
-)
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
