@@ -7,7 +7,7 @@ Kittygram — социальная сеть для обмена фотограф
 
 ### Клонируйте репозиторий:   
 ```sh/bash
-git@github.com:Anastasia289/infra_sprint1.git
+https://github.com/ElenaVasilkova/infra_sprint1
 ```
    
 ### Настройте бэкенд приложения:
